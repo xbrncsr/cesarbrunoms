@@ -1,5 +1,5 @@
 <h3> Oi! Eu sou o Bruno César 👋 </h3>
-##
+
 <div>
   <a href="https://github.com/cesarbrunoms>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarbrunoms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
