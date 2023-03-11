@@ -1,10 +1,5 @@
 <h3> Oi! Eu sou o Bruno César 👋 </h3>
 
-<div>
-  <a href="https://github.com/cesarbrunoms>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarbrunoms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=cesarbrunoms&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
