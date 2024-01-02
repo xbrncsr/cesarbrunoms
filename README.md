@@ -16,7 +16,7 @@
 
 
 ## 🚀 Minhas redes sociais e canal no YouTube
-[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-zMoZSD3tDQLEuPYJtL0hw?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/czzrtch) -
+[![Youtube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-zMoZSD3tDQLEuPYJtL0hw?label=YOUTUBE&logo=youtube&style=for-the-badge&logoColor=red)](https://youtube.com/@czzrtch) -
 [![GitHub followers](https://img.shields.io/github/followers/cesarbrunoms?label=GitHub&logo=Github&style=for-the-badge)](https://github.com/cesarbrunoms/) -
 [![LinkedIn cesarbrunoms](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarbrunoms/) -
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cesarbrunoms/)
