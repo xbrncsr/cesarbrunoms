@@ -1,4 +1,4 @@
-# Oi! Eu sou o Bruno César 👋
+# 👋 Oi!
 
 ## 💻 Tecnlogias e Ferramentas do meu Dia a Dia
 <div align="center">
